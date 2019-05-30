@@ -1,0 +1,61 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [
+        {
+          "name": "2019-03-13T10:20:05.000-0400",
+          "address": "element-pts-proc",
+          "email": "00067157-1585-62ac-b753-cdc97a13ac17"
+        }
+      ],
+      "metaData": {
+        "dataFile": "src/test/resources/excelfile.xls",
+        "filter": "",
+        "groups": [],
+        "hasHeaderRow": false,
+        "key": "",
+        "name": "testWithBeanClass",
+        "resultFileName": "TestWithBeanClass",
+        "sheetName": "excelreader",
+        "sign": "ExcelDataProviderTestUsingThirdPartyLibrary.testWithBeanClass(com.krishna.utils.BeanClass)[pri:0, instance:com.krishna.test.ExcelDataProviderTestUsingThirdPartyLibrary@6121c9d6]",
+        "sqlQuery": ""
+      },
+      "dependsOn": [],
+      "startTime": 1553041821230,
+      "duration": 16,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [
+        {
+          "name": "2019-03-13T10:20:05.000-0400",
+          "address": "element-pts-proc",
+          "email": "00067157-1585-62ac-b753-cdc97a13ac17",
+          "__index": 1
+        }
+      ],
+      "metaData": {
+        "dataFile": "src/test/resources/excelfile.xls",
+        "filter": "",
+        "groups": [],
+        "hasHeaderRow": false,
+        "key": "",
+        "name": "testDataProviderUsingMapWithThirdParty",
+        "resultFileName": "TestDataProviderUsingMapWithThirdParty",
+        "sheetName": "excelreader",
+        "sign": "ExcelDataProviderTestUsingThirdPartyLibrary.testDataProviderUsingMapWithThirdParty(java.util.Map)[pri:0, instance:com.krishna.test.ExcelDataProviderTestUsingThirdPartyLibrary@6121c9d6]",
+        "sqlQuery": ""
+      },
+      "dependsOn": [],
+      "startTime": 1553041821307,
+      "duration": 2,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

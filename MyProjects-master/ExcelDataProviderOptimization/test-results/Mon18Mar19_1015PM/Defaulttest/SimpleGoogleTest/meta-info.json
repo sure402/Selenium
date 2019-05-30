@@ -1,0 +1,34 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestGoogleData",
+        "name": "testGoogleData",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1552965313743,
+      "duration": 132,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestGoogleDataOkMtYwOiqU",
+        "name": "testGoogleData",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1552965340700,
+      "duration": 138,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

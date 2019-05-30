@@ -1,0 +1,274 @@
+2018-10-12 16:19:08,288 [main] INFO TestLogFile - Browser Opened
+2018-10-12 16:22:30,155 [main] INFO BaseTest - Test Started
+2018-10-12 16:22:30,484 [main] INFO BaseTest - Test Ended
+2018-10-12 16:23:34,538 [main] INFO BaseTest - Test Started
+2018-10-12 16:23:34,921 [main] INFO BaseTest - Test Ended
+2018-10-12 16:23:52,840 [main] INFO BaseTest - Test Started
+2018-10-12 16:23:53,143 [main] INFO BaseTest - Test Ended
+2018-10-12 16:31:22,138 [main] INFO BaseTest - Test Started
+2018-10-12 16:31:22,555 [main] INFO BaseTest - Test Ended
+2018-10-12 16:31:50,648 [main] INFO BaseTest - Test Started
+2018-10-12 16:31:50,910 [main] INFO BaseTest - Test Ended
+2018-10-12 16:32:15,163 [main] INFO BaseTest - Test Started
+2018-10-12 16:32:15,433 [main] INFO BaseTest - Test Ended
+2018-10-12 22:22:35,154 [main] INFO BaseTest - Test Started
+2018-10-12 22:22:35,567 [main] INFO BaseTest - Test Ended
+2018-10-12 22:38:46,276 [main] INFO BaseTest - Test Started
+2018-10-12 22:38:46,477 [main] INFO BaseTest - Test Ended
+2018-10-12 22:41:06,454 [main] INFO BaseTest - Test Started
+2018-10-12 22:41:06,703 [main] INFO BaseTest - Test Ended
+2018-10-12 22:41:50,933 [main] INFO BaseTest - Test Started
+2018-10-12 22:41:51,790 [main] INFO BaseTest - Test Ended
+2018-10-12 22:42:33,344 [main] INFO BaseTest - Test Started
+2018-10-12 22:42:33,523 [main] INFO BaseTest - Test Ended
+2018-10-12 22:44:17,135 [main] INFO BaseTest - Test Started
+2018-10-12 22:44:17,342 [main] INFO TestServiceClientResponse - Get http Requesthttp://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-12 22:44:17,516 [main] INFO BaseTest - Test Ended
+2018-10-12 22:45:10,791 [main] INFO BaseTest - Test Started
+2018-10-12 22:45:10,968 [main] INFO TestServiceClientResponse - Get http Requesthttp://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-12 22:45:11,162 [main] INFO BaseTest - Test Ended
+2018-10-12 22:46:11,246 [main] INFO BaseTest - Test Started
+2018-10-12 22:46:11,498 [main] INFO TestServiceClientResponse - Get http Requesthttp://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-12 22:46:11,880 [main] INFO TestServiceClientResponse - Response ReturnedGET http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie returned a response status of 400 Bad Request
+2018-10-12 22:46:11,882 [main] INFO BaseTest - Test Ended
+2018-10-12 22:46:45,893 [main] INFO BaseTest - Test Started
+2018-10-12 22:46:46,136 [main] INFO TestServiceClientResponse - Get http Requesthttp://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-12 22:46:46,613 [main] INFO TestServiceClientResponse - Response ReturnedGET http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie returned a response status of 400 Bad Request
+2018-10-12 22:46:46,615 [main] INFO BaseTest - Test Ended
+2018-10-12 22:47:58,125 [main] INFO BaseTest - Test Started
+2018-10-12 22:47:58,361 [main] INFO TestServiceClientResponse - Get http Requesthttp://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-12 22:47:58,750 [main] INFO TestServiceClientResponse - Response Returned
+2018-10-12 22:47:58,752 [main] INFO BaseTest - Test Ended
+2018-10-12 22:48:35,596 [main] INFO BaseTest - Test Started
+2018-10-12 22:48:35,838 [main] INFO TestServiceClientResponse - Get http Requesthttp://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-12 22:48:36,023 [main] INFO TestServiceClientResponse - Response Status400
+2018-10-12 22:48:36,024 [main] INFO TestServiceClientResponse - Response Returned
+2018-10-12 22:48:36,027 [main] INFO BaseTest - Test Ended
+2018-10-12 22:49:11,391 [main] INFO BaseTest - Test Started
+2018-10-12 22:49:11,616 [main] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-12 22:49:11,811 [main] INFO TestServiceClientResponse - Response Status: 400
+2018-10-12 22:49:11,813 [main] INFO TestServiceClientResponse - Response Returned: 
+2018-10-12 22:49:11,815 [main] INFO BaseTest - Test Ended
+2018-10-12 22:53:14,750 [main] INFO BaseTest - Test Started
+2018-10-12 22:53:14,962 [main] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-12 22:53:15,300 [main] INFO TestServiceClientResponse - Response Status: 400
+2018-10-12 22:53:15,301 [main] INFO TestServiceClientResponse - Response Returned: 
+2018-10-12 22:53:15,303 [main] INFO BaseTest - Test Ended
+2018-10-15 13:16:30,312 [main] INFO BaseTest - Test Started
+2018-10-15 13:16:30,502 [main] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:16:30,686 [main] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:16:30,688 [main] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:16:30,690 [main] INFO BaseTest - Test Ended
+2018-10-15 13:24:58,106 [main] INFO BaseTest - 
+************************************
+STARTING Default test
+************************************
+Service Test Params for:Default test
+
+Common Params for:Default test
+
+Custom Params for:Default test
+************************************
+2018-10-15 13:24:58,616 [main] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:24:58,744 [main] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:24:58,745 [main] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:31:25,314 [main] INFO BaseTest - 
+************************************
+STARTING org.testng.xml.XmlTest
+************************************
+Service Test Params for:org.testng.xml.XmlTest
+
+Common Params for:org.testng.xml.XmlTest
+
+Custom Params for:org.testng.xml.XmlTest
+************************************
+2018-10-15 13:31:25,644 [main] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:31:25,794 [main] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:31:25,795 [main] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:33:27,283 [main] INFO BaseTest - 
+************************************
+STARTING testAPIProject
+************************************
+Service Test Params for:testAPIProject
+
+Common Params for:testAPIProject
+
+Custom Params for:testAPIProject
+************************************
+2018-10-15 13:33:27,638 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:33:27,797 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:33:27,799 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:35:38,408 [main] INFO BaseTest - 
+************************************
+STARTING testAPIProject
+************************************
+Service Test Params for:testAPIProject
+
+
+2018-10-15 13:35:38,782 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:35:38,953 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:35:38,955 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:40:00,561 [main] INFO BaseTest - 
+************************************
+STARTING testAPIProject
+************************************
+Service Test Params for:testAPIProject
+
+
+2018-10-15 13:40:00,926 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:40:01,088 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:40:01,089 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:40:43,391 [main] INFO BaseTest - 
+************************************
+STARTING testAPIProject
+************************************
+Service Test Params for:testAPIProject
+
+
+2018-10-15 13:40:43,718 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:40:43,856 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:40:43,857 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:41:28,597 [main] INFO BaseTest - 
+************************************
+STARTING testAPIProject
+************************************
+Service Test Params for:testAPIProject
+
+
+2018-10-15 13:41:28,983 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:41:29,135 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:41:29,136 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:43:05,646 [main] INFO BaseTest - 
+************************************
+STARTING testAPIProject
+************************************
+Service Test Params for:testAPIProject
+
+
+2018-10-15 13:43:06,039 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:43:06,190 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:43:06,192 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:44:05,638 [main] INFO BaseTest - Service/Functional Automation
+2018-10-15 13:44:05,646 [main] INFO BaseTest - 
+************************************
+STARTING testAPIProject
+************************************
+Service Test Params for:testAPIProject
+
+
+2018-10-15 13:44:06,026 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:44:06,180 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:44:06,181 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 13:44:45,400 [main] INFO BaseTest - 
+************************************
+STARTING testAPIProject
+************************************
+Service Test Params for:testAPIProject
+
+
+2018-10-15 13:44:45,799 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 13:44:45,980 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 13:44:45,982 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 14:16:02,338 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-15 14:16:02,487 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 14:16:02,594 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 14:16:02,595 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 14:16:02,596 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-15 14:16:51,866 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-15 14:16:52,025 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 14:16:52,296 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 14:16:52,297 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 14:16:52,299 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-15 14:17:46,172 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-15 14:17:46,325 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 14:17:46,414 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Status: 400
+2018-10-15 14:17:46,416 [TestNG-test=testAPIProject-1] INFO TestServiceClientResponse - Response Returned: 
+2018-10-15 14:17:46,419 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-15 14:20:55,658 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-15 14:20:55,806 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 14:20:55,887 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Status: 400
+2018-10-15 14:20:55,890 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Returned: 
+2018-10-15 14:20:55,893 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-15 14:24:05,627 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-15 14:24:05,784 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 14:24:05,891 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Status: 400
+2018-10-15 14:24:05,892 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Returned: 
+2018-10-15 14:24:05,894 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-15 14:26:00,394 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-15 14:26:00,555 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 14:26:00,662 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Headers: {X-EBAY-C-REQUEST-ID=[ri=rQflmprfzQs2,rci=LAdC%2FxHqm6SgULXQ], Server=[ebay server], Cache-Control=[private], Cneonction=[close], Set-Cookie=[ebay=%5Esbf%3D%23%5E;Domain=.ebay.com;Path=/], Pragma=[no-cache], Content-Length=[0], Date=[Mon, 15 Oct 2018 21:26:00 GMT], RlogId=[t6mbefsluq%60%28ciuc1mlnm2%3Asn%3D9kadbuotuf%2B6%3A53342%28wk%7D65-acq-%60dfzf5%29%60jk-166799f1677-0x132]}
+2018-10-15 14:26:00,663 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Status: 400
+2018-10-15 14:26:00,664 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Returned: 
+2018-10-15 14:26:00,667 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-15 14:27:09,220 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-15 14:27:09,367 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 14:27:09,443 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Headers: {}
+2018-10-15 14:27:09,444 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Status: 400
+2018-10-15 14:27:09,445 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Returned: 
+2018-10-15 14:27:09,447 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-15 14:28:54,503 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-15 14:28:54,678 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 14:28:54,898 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Headers: {X-EBAY-C-REQUEST-ID=[ri=20nYMa%2FEsBK4,rci=74aBzcyhi2I8uZq0], Server=[ebay server], Cache-Control=[private], nnCoection=[close], Set-Cookie=[ebay=%5Esbf%3D%23%5E;Domain=.ebay.com;Path=/], Pragma=[no-cache], Content-Length=[0], Date=[Mon, 15 Oct 2018 21:28:54 GMT], RlogId=[t6mbefsluq%60%28ciuc1mlnm2%3Asn%3D9un%7Fmbefsluq%60%2842%3A1635%2Bvo%7B54%29g%60p%29fgg%7E%606%28dlh-16679a1bf16-0x134]}
+2018-10-15 14:28:54,898 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Status: 400
+2018-10-15 14:28:54,900 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Returned: 
+2018-10-15 14:28:54,902 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-15 14:29:38,544 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-15 14:29:38,688 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-15 14:29:38,806 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Headers: {X-EBAY-C-REQUEST-ID=[ri=mnJkYMD3gDRc,rci=dljY2JPxx9C%2Bfbaw], Server=[ebay server], Cache-Control=[private], nnCoection=[close], Set-Cookie=[ebay=%5Esbf%3D%23%5E;Domain=.ebay.com;Path=/], Pragma=[no-cache], Content-Length=[0], Date=[Mon, 15 Oct 2018 21:29:39 GMT], RlogId=[t6mbefsluq%60%28ciuc1mlnm2%3Asn%3D9un%7Fmbefsluq%60%2842%3A1635%2Bvo%7B54%29g%60p%29fgg%7E%606%28dlh-16679a26a9b-0x130]}
+2018-10-15 14:29:38,807 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Status: 400
+2018-10-15 14:29:38,808 [TestNG-test=testAPIProject-1] INFO com.krishna.service.client.TestServiceClientResponse - Response Returned: 
+2018-10-15 14:29:38,810 [TestNG-test=testAPIProject-1] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-22 00:25:20,032 [main] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-22 00:25:20,218 [main] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://ngcapisvc.qa.ebay.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-22 00:25:20,278 [main] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-22 00:26:28,310 [main] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-22 00:26:28,452 [main] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://www.google.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-22 00:26:28,543 [main] INFO com.krishna.service.client.TestServiceClientResponse - Response Headers: {Referrer-Policy=[no-referrer], Content-Length=[1570], Date=[Mon, 22 Oct 2018 07:26:28 GMT], Content-Type=[text/html; charset=UTF-8]}
+2018-10-22 00:26:28,544 [main] INFO com.krishna.service.client.TestServiceClientResponse - Response Status: 404
+2018-10-22 00:26:28,546 [main] INFO com.krishna.service.client.TestServiceClientResponse - Response Returned: <!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 404 (Not Found)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>404.</b> <ins>That’s an error.</ins>
+  <p>The requested URL <code>/clsprv/id</code> was not found on this server.  <ins>That’s all we know.</ins>
+
+2018-10-22 00:26:28,549 [main] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-22 00:28:39,180 [main] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-22 00:28:39,329 [main] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://www.google.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-22 00:28:39,394 [main] INFO com.krishna.service.client.TestServiceClientResponse - Response Headers: {Referrer-Policy=[no-referrer], Content-Length=[1570], Date=[Mon, 22 Oct 2018 07:28:39 GMT], Content-Type=[text/html; charset=UTF-8]}
+2018-10-22 00:28:39,395 [main] INFO com.krishna.service.client.TestServiceClientResponse - Response Status: 404
+2018-10-22 00:28:39,397 [main] INFO com.krishna.service.client.TestServiceClientResponse - Response Returned: <!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 404 (Not Found)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>404.</b> <ins>That’s an error.</ins>
+  <p>The requested URL <code>/clsprv/id</code> was not found on this server.  <ins>That’s all we know.</ins>
+
+2018-10-22 00:28:39,400 [main] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************
+2018-10-22 00:33:22,554 [main] INFO com.krishna.service.tests.BaseTest - **************testServiceStarted***************
+2018-10-22 00:33:22,694 [main] INFO com.krishna.service.client.TestServiceClientResponse - Get http Request: http://www.google.com/clsprv/id?name=batsman?description=BatManMovie
+2018-10-22 00:33:22,769 [main] INFO com.krishna.service.client.TestServiceClientResponse - Response Headers: {Referrer-Policy=[no-referrer], Content-Length=[1570], Date=[Mon, 22 Oct 2018 07:33:22 GMT], Content-Type=[text/html; charset=UTF-8]}
+2018-10-22 00:33:22,769 [main] INFO com.krishna.service.client.TestServiceClientResponse - Response Status: 404
+2018-10-22 00:33:22,771 [main] INFO com.krishna.service.client.TestServiceClientResponse - Response Returned: <!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 404 (Not Found)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>404.</b> <ins>That’s an error.</ins>
+  <p>The requested URL <code>/clsprv/id</code> was not found on this server.  <ins>That’s all we know.</ins>
+
+2018-10-22 00:33:22,773 [main] INFO com.krishna.service.tests.BaseTest - **************testServiceFinished***************

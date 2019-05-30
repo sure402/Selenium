@@ -1,0 +1,26 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "dataFile": "/Users/kabothu/Workspace/FixProject/ExcelCheck/src/test/resources/excelfile.xls",
+        "filter": "",
+        "groups": [],
+        "hasHeaderRow": false,
+        "key": "",
+        "name": "testGoogleData",
+        "resultFileName": "TestGoogleData",
+        "sheetName": "excelreader",
+        "sign": "SimpleGoogleTest.testGoogleData(java.util.Map)[pri:0, instance:SimpleGoogleTest@57855c9a]",
+        "sqlQuery": ""
+      },
+      "dependsOn": [],
+      "startTime": 1553039661765,
+      "duration": 142,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

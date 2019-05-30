@@ -1,0 +1,26 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "dataFile": "src/test/resources/excelfile.xls",
+        "filter": "",
+        "groups": [],
+        "hasHeaderRow": false,
+        "key": "",
+        "name": "testGoogleData2",
+        "resultFileName": "TestGoogleData2",
+        "sheetName": "excelreader",
+        "sign": "SampleTest.testGoogleData2(java.util.Map)[pri:0, instance:SampleTest@28ac3dc3]",
+        "sqlQuery": ""
+      },
+      "dependsOn": [],
+      "startTime": 1553040540537,
+      "duration": 129,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

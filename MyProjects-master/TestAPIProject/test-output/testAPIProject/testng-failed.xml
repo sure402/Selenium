@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [testAPIProject]" parallel="methods">
+  <test name="testAPIProject(failed)" parallel="methods">
+    <classes>
+      <class name="com.krishna.service.tests.TestServiceTests">
+        <methods>
+          <include name="afterTest"/>
+          <include name="testService"/>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.krishna.service.tests.TestServiceTests -->
+    </classes>
+  </test> <!-- testAPIProject(failed) -->
+</suite> <!-- Failed suite [testAPIProject] -->

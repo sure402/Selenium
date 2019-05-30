@@ -1,0 +1,35 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestWithBeanClass",
+        "name": "testWithBeanClass",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1553041669006,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestDataProviderUsingMapWithThirdParty",
+        "name": "testDataProviderUsingMapWithThirdParty",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1553041669026,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

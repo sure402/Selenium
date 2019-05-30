@@ -1,0 +1,20 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestGoogleData",
+        "name": "testGoogleData",
+        "groups": [],
+        "description": "Trasanction Test"
+      },
+      "dependsOn": [],
+      "startTime": 1552970489951,
+      "duration": 137,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

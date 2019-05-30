@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="218" started-at="2019-03-20T00:37:08Z" finished-at="2019-03-20T00:37:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="218" started-at="2019-03-20T00:37:08Z" finished-at="2019-03-20T00:37:08Z">
+      <class name="com.krishna.test.ExcelDataProviderTestWithHashTable">
+        <test-method status="PASS" signature="testDataProviderUsingHashTableExample(java.util.Hashtable)[pri:0, instance:com.krishna.test.ExcelDataProviderTestWithHashTable@491cc5c9]" name="testDataProviderUsingHashTableExample" duration-ms="20" started-at="2019-03-19T19:37:08Z" data-provider="hashTableExample" finished-at="2019-03-19T19:37:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{address=element-pts-proc, __index=1, email=00067157-1585-62ac-b753-cdc97a13ac17, name=2019-03-13T10:20:05.000-0400}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDataProviderUsingHashTableExample -->
+        <test-method status="PASS" signature="testDataProviderUsingAllArgumentsExample(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.krishna.test.ExcelDataProviderTestWithHashTable@491cc5c9]" name="testDataProviderUsingAllArgumentsExample" duration-ms="2" started-at="2019-03-19T19:37:08Z" data-provider="usingAllArguments" finished-at="2019-03-19T19:37:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2019-03-13T10:20:05.000-0400]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[element-pts-proc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[00067157-1585-62ac-b753-cdc97a13ac17]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDataProviderUsingAllArgumentsExample -->
+      </class> <!-- com.krishna.test.ExcelDataProviderTestWithHashTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

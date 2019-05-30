@@ -1,0 +1,9 @@
+com/krishna/service/client/TestServiceClientResponse.class
+com/krishna/service/dataprovider/TestServiceDataProvider.class
+com/krishna/services/util/TestServiceDataUtils.class
+com/krishna/services/util/TestServiceURLBuilder.class
+com/krishna/service/model/TestServiceMock.class
+com/krishna/service/requestbuilder/TestServiceRequestBuilder.class
+com/krishna/services/util/TestServiceConfigFileUtil.class
+com/krishna/services/util/TestServiceDataReaderUtil.class
+com/krishna/service/model/TestService.class

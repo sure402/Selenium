@@ -1,0 +1,51 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [
+        {
+          "address": "element-pts-proc",
+          "__index": 1.0,
+          "email": "00067157-1585-62ac-b753-cdc97a13ac17",
+          "name": "2019-03-13T10:20:05.000-0400"
+        }
+      ],
+      "metaData": {
+        "dataProvider": "hashTableExample",
+        "dataProviderClass": "com.krishna.utils.DataProviders",
+        "groups": [],
+        "name": "testDataProviderUsingHashTableExample",
+        "resultFileName": "TestDataProviderUsingHashTableExample",
+        "sign": "ExcelDataProviderTestWithHashTable.testDataProviderUsingHashTableExample(java.util.Hashtable)[pri:0, instance:com.krishna.test.ExcelDataProviderTestWithHashTable@491cc5c9]"
+      },
+      "dependsOn": [],
+      "startTime": 1553041797211,
+      "duration": 19,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [
+        "2019-03-13T10:20:05.000-0400",
+        "element-pts-proc",
+        "00067157-1585-62ac-b753-cdc97a13ac17"
+      ],
+      "metaData": {
+        "dataProvider": "usingAllArguments",
+        "dataProviderClass": "com.krishna.utils.DataProviders",
+        "groups": [],
+        "name": "testDataProviderUsingAllArgumentsExample",
+        "resultFileName": "TestDataProviderUsingAllArgumentsExample",
+        "sign": "ExcelDataProviderTestWithHashTable.testDataProviderUsingAllArgumentsExample(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.krishna.test.ExcelDataProviderTestWithHashTable@491cc5c9]"
+      },
+      "dependsOn": [],
+      "startTime": 1553041797253,
+      "duration": 2,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="4" failed="1" total="5" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61622" started-at="2015-11-12T13:23:09Z" finished-at="2015-11-12T13:24:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61622" started-at="2015-11-12T13:23:09Z" finished-at="2015-11-12T13:24:10Z">
+      <class name="com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="launchApplication" is-config="true" duration-ms="10652" started-at="2015-11-12T18:53:09Z" finished-at="2015-11-12T18:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="loginPage" is-config="true" duration-ms="683" started-at="2015-11-12T18:53:20Z" finished-at="2015-11-12T18:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="FAIL" signature="testAddItemTransactionFlow(java.lang.String)[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="testAddItemTransactionFlow" duration-ms="26445" started-at="2015-11-12T18:53:21Z" data-provider="keywords" finished-at="2015-11-12T18:53:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPhone]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.RuntimeException">
+            <message>
+              <![CDATA[Selecting Aspect For An Item By.cssSelector: .variants.variants-swatches.js-variants-swatches.js-variants-collapsed.variants-collapsed>span:nth-of-type(1) failed: unknown error: Element is not clickable at point (639, 659)
+  (Session info: chrome=46.0.2490.80)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100 milliseconds
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'kabothu1', ip: '192.168.0.3', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 20bc589d0d043f4290057090b0708fd4
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\kabothu\AppData\Local\Temp\scoped_dir3592_7942}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=46.0.2490.80, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.RuntimeException: Selecting Aspect For An Item By.cssSelector: .variants.variants-swatches.js-variants-swatches.js-variants-collapsed.variants-collapsed>span:nth-of-type(1) failed: unknown error: Element is not clickable at point (639, 659)
+  (Session info: chrome=46.0.2490.80)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100 milliseconds
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'kabothu1', ip: '192.168.0.3', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 20bc589d0d043f4290057090b0708fd4
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\kabothu\AppData\Local\Temp\scoped_dir3592_7942}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=46.0.2490.80, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+	at com.krishna.dev.pagecomponents.Cart.selectAspectForAnItem(Cart.java:48)
+	at com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment.testAddItemTransactionFlow(TestWalmartAssignment.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.RuntimeException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddItemTransactionFlow -->
+        <test-method status="PASS" signature="logoutApplication()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="logoutApplication" is-config="true" duration-ms="3255" started-at="2015-11-12T18:53:47Z" finished-at="2015-11-12T18:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+        <test-method status="FAIL" signature="loginPage()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="loginPage" is-config="true" duration-ms="0" started-at="2015-11-12T18:53:50Z" finished-at="2015-11-12T18:53:50Z">
+          <exception class="java.lang.RuntimeException">
+            <message>
+              <![CDATA[GetElement and entering text in By.id: login-username failed: no such element: Unable to locate element: {"method":"id","selector":"login-username"}
+  (Session info: chrome=46.0.2490.80)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'kabothu1', ip: '192.168.0.3', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=login-username}
+Session ID: 20bc589d0d043f4290057090b0708fd4
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\kabothu\AppData\Local\Temp\scoped_dir3592_7942}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=46.0.2490.80, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.RuntimeException: GetElement and entering text in By.id: login-username failed: no such element: Unable to locate element: {"method":"id","selector":"login-username"}
+  (Session info: chrome=46.0.2490.80)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'kabothu1', ip: '192.168.0.3', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=login-username}
+Session ID: 20bc589d0d043f4290057090b0708fd4
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\kabothu\AppData\Local\Temp\scoped_dir3592_7942}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=46.0.2490.80, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+	at com.krishna.dev.pagecomponents.Login.enterUserNameAndPassword(Login.java:39)
+	at com.krishna.dev.webdriver.basetest.BaseTest.loginPage(BaseTest.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:585)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.RuntimeException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="SKIP" signature="testAddItemTransactionFlow(java.lang.String)[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="testAddItemTransactionFlow" duration-ms="0" started-at="2015-11-12T18:54:10Z" data-provider="keywords" finished-at="2015-11-12T18:54:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddItemTransactionFlow -->
+        <test-method status="SKIP" signature="loginPage()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="loginPage" is-config="true" duration-ms="0" started-at="2015-11-12T18:54:10Z" finished-at="2015-11-12T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="SKIP" signature="logoutApplication()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="logoutApplication" is-config="true" duration-ms="0" started-at="2015-11-12T18:54:10Z" finished-at="2015-11-12T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+        <test-method status="SKIP" signature="logoutApplication()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="logoutApplication" is-config="true" duration-ms="0" started-at="2015-11-12T18:54:10Z" finished-at="2015-11-12T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+        <test-method status="SKIP" signature="testAddItemTransactionFlow(java.lang.String)[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="testAddItemTransactionFlow" duration-ms="0" started-at="2015-11-12T18:54:10Z" data-provider="keywords" finished-at="2015-11-12T18:54:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[socks]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddItemTransactionFlow -->
+        <test-method status="SKIP" signature="loginPage()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="loginPage" is-config="true" duration-ms="0" started-at="2015-11-12T18:54:10Z" finished-at="2015-11-12T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="SKIP" signature="logoutApplication()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="logoutApplication" is-config="true" duration-ms="0" started-at="2015-11-12T18:54:10Z" finished-at="2015-11-12T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+        <test-method status="SKIP" signature="testAddItemTransactionFlow(java.lang.String)[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="testAddItemTransactionFlow" duration-ms="0" started-at="2015-11-12T18:54:10Z" data-provider="keywords" finished-at="2015-11-12T18:54:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dvd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddItemTransactionFlow -->
+        <test-method status="SKIP" signature="testAddItemTransactionFlow(java.lang.String)[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="testAddItemTransactionFlow" duration-ms="0" started-at="2015-11-12T18:54:10Z" data-provider="keywords" finished-at="2015-11-12T18:54:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[toys]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddItemTransactionFlow -->
+        <test-method status="SKIP" signature="loginPage()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="loginPage" is-config="true" duration-ms="0" started-at="2015-11-12T18:54:10Z" finished-at="2015-11-12T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="SKIP" signature="logoutApplication()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="logoutApplication" is-config="true" duration-ms="0" started-at="2015-11-12T18:54:10Z" finished-at="2015-11-12T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+        <test-method status="SKIP" signature="exitBrowser()[pri:0, instance:com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment@1c83d89]" name="exitBrowser" is-config="true" duration-ms="0" started-at="2015-11-12T18:54:10Z" finished-at="2015-11-12T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitBrowser -->
+      </class> <!-- com.krishna.dev.webdriver.funtionaltests.TestWalmartAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

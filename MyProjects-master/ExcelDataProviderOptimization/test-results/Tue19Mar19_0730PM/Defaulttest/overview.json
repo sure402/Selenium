@@ -1,0 +1,31 @@
+{
+  "total": 2,
+  "pass": 2,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "com.krishna.test.ExcelDataProviderTestUsingThirdPartyLibrary"
+  ],
+  "envInfo": {
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "14",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "01-Jan-2019 19:18:14"
+    },
+    "run-parameters": {},
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_202",
+      "os.arch": "x86_64",
+      "host": "Krishnas-MacBook-Pro-2.local",
+      "os.name": "Mac OS X",
+      "user.name": "kabothu",
+      "os.version": "10.14.3"
+    }
+  },
+  "startTime": 1553041821251,
+  "endTime": 1553041821332
+}

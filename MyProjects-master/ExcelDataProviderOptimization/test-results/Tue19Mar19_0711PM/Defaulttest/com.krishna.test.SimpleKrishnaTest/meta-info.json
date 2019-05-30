@@ -1,0 +1,33 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [
+        {
+          "name": "2019-03-13T10:20:05.000-0400",
+          "address": "element-pts-proc",
+          "email": "00067157-1585-62ac-b753-cdc97a13ac17",
+          "__index": 1
+        }
+      ],
+      "metaData": {
+        "dataFile": "src/test/resources/excelfile.xls",
+        "filter": "",
+        "groups": [],
+        "hasHeaderRow": false,
+        "key": "",
+        "name": "testGoogleData",
+        "resultFileName": "TestGoogleData",
+        "sheetName": "excelreader",
+        "sign": "SimpleKrishnaTest.testGoogleData(java.util.Map)[pri:0, instance:com.krishna.test.SimpleKrishnaTest@28ac3dc3]",
+        "sqlQuery": ""
+      },
+      "dependsOn": [],
+      "startTime": 1553040689132,
+      "duration": 5,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

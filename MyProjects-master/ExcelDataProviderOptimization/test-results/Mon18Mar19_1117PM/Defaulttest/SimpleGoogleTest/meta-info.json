@@ -1,0 +1,18 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "name": "testGoogleData",
+        "groups": []
+      },
+      "dependsOn": [],
+      "startTime": 1552969069392,
+      "duration": 131,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}
